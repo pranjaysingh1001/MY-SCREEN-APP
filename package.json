@@ -1,0 +1,25 @@
+{
+  "name": "my-screen-app",
+  "version": "1.0.0",
+  "description": "A real-time screen-aware AI desktop assistant powered by Google Gemini Vision API.",
+  "main": "src/pranjay.py",
+  "author": "Pranjay Singh",
+  "license": "MIT",
+  "keywords": [
+    "AI",
+    "Gemini",
+    "Screen Assistant",
+    "Python",
+    "Desktop Application",
+    "Automation",
+    "Computer Vision",
+    "Context Awareness"
+  ],
+  "scripts": {
+    "start": "python src/pranjay.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pranjaysingh1001/MY-SCREEN-APP.git"
+  }
+}
