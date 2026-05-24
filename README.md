@@ -1,4 +1,4 @@
-					 MY-SCREEN-APP
+&#x09;						 MY-SCREEN-APP
 
 
 
@@ -338,7 +338,7 @@ Create a `.env` file:
 
 ```env
 
-GEMINI\_API\_KEY=AIzaSyBjr\_C5pgOvfGExOnAMTsPymg8G1SJldEY
+GEMINI\_API\_KEY=""
 
 ```
 
